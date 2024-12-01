@@ -1,0 +1,19 @@
+body {
+	background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d06b4a96910357.5eb96523a7411.jpg);
+	
+
+}
+h1 {
+	background-color: #e8ac65;
+	text-align: center;
+	color: #433e3f;
+}
+
+.container{
+	background-color: #d6ce93;
+	padding: 15px;
+	box-shadow: 22px 31px 32px 3px rgba(201,185,136,0.72);
+-webkit-box-shadow: 22px 31px 32px 3px rgba(201,185,136,0.72);
+-moz-box-shadow: 22px 31px 32px 3px rgba(201,185,136,0.72);
+
+}
